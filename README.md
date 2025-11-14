@@ -5,9 +5,6 @@ Simply upload your chat history, name your bot, and engage with an AI that mirro
 
 ---
 
-## Working Prototype 
-[ChatMimic](https://chatdouble.streamlit.app)
-
 
 ---
 
