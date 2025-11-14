@@ -2,7 +2,6 @@
 
 ChatMimic is a private AI chat platform that lets you recreate lifelike chatbots based on real conversations from platforms like WhatsApp or Instagram.
 Simply upload your chat history, name your bot, and engage with an AI that mirrors the tone, style, and personality of that person — powered by Google Gemini.
-.
 
 ---
 
