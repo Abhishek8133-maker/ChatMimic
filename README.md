@@ -1,12 +1,13 @@
-# **ChatDouble**
+# **ChatMimic**
 
-ChatDouble is a private AI chat platform that lets you create lifelike chatbots trained on real chat histories, like WhatsApp or Instagram exports.
-Upload your chats, name your bot, and talk to an AI version of that person powered by Google Gemini.
+ChatMimic is a private AI chat platform that lets you recreate lifelike chatbots based on real conversations from platforms like WhatsApp or Instagram.
+Simply upload your chat history, name your bot, and engage with an AI that mirrors the tone, style, and personality of that person — powered by Google Gemini.
+.
 
 ---
 
 ## Working Prototype 
-[ChatDouble](https://chatdouble.streamlit.app)
+[ChatMimic](https://chatdouble.streamlit.app)
 
 
 ---
@@ -66,8 +67,8 @@ ChatDouble/
 ---
 ### Clone the Repository
 ```
-git clone https://github.com/Mayurkoli8/ChatDouble.git
-cd ChatDouble
+git clone https://github.com/Abhishek8133-maker/ChatMimic.git
+cd ChatMimic
 ```
 
 ---
@@ -195,26 +196,19 @@ Reach out if you’d like to collaborate or contribute.
 
 <div align="left">
 
-<a href="https://github.com/mayurkoli8" target="_blank">
+<a href="https://github.com/Abhishek8133-maker" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/mayur-koli-484603215/" target="_blank">
+<a href="https://www.linkedin.com/in/abhishek-sharma-aba598261/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
-<a href="https://instagram.com/mentesa.live" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:kolimohit9595@gmail.com">
+<a href="Abhishek:abhishekdhn2003@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
-
-### Want to improve this project?
-Open an issue or start a discussion — PRs welcome ⚡
