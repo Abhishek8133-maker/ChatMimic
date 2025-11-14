@@ -1,4 +1,4 @@
-# app.py — complete copy-paste replacement
+# app.py
 import os
 import json
 import base64
